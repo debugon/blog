@@ -15,4 +15,6 @@ install:
   - tar xvf redpen-1.9.0.tar.gz
 
 script:
+  - git config --global user.email "games0421@gmail.com"
+  - git config --global user.name "debugon"
   - hexo deploy -g
