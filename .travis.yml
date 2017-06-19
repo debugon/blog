@@ -11,8 +11,8 @@ env:
 
 install:
   - npm install
-  - wget $URL/redpen-1.9.0.tar.gz
-  - tar xvf redpen-1.9.0.tar.gz
+  - wget $URL/redpen-*.tar.gz
+  - tar xvf redpen-*.tar.gz
 
 script:
   - ls
