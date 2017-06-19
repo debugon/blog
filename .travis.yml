@@ -16,7 +16,7 @@ install:
 
 script:
   - ls
-  - redpen-*/bin/redpen -f markdown -r xml source\_posts\2017\06\14-travis-ci.md
+  - redpen-*/bin/redpen source\_posts\2017\06\14-travis-ci.md
   - git config --global user.email "games0421@gmail.com"
   - git config --global user.name "debugon"
   - git init
