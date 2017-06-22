@@ -9,6 +9,10 @@ jdk:
 env:
   - URL=https://github.com/redpen-cc/redpen/releases/download/redpen-1.9.0
 
+cache:
+  directories:
+    - node_modules
+
 install:
   - npm install
   - wget $URL/redpen-1.9.0.tar.gz
