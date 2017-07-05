@@ -21,7 +21,7 @@ install:
 
 script:
   - ls
-  - redpen source/_posts/*/*/*.md
+  - redpen conf/redpen-conf-ja.xml source/_posts/*/*/*.md
 
 after_success:
   - git config --global user.name "debugon"
