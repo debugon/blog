@@ -19,7 +19,7 @@ install:
   - tar xvf redpen-1.9.0.tar.gz
 
 script:
-  - redpen-*/bin/redpen redpen-*/conf/redpen-conf-ja.xml source/_posts/*/*/*.md
+  - redpen-*/bin/redpen redpen-*/conf/redpen-conf-ja.xml source/_posts/2017/06/*.md
 
 after_success:
   - git config --global user.name "debugon"
