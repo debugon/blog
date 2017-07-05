@@ -17,12 +17,14 @@ install:
   - npm install
   - wget $URL/redpen-1.9.0.tar.gz
   - tar xvf redpen-1.9.0.tar.gz
+  - export PATH=$PWD/redpen-*/bin:$PATH
 
 script:
-  - redpen-*/bin/redpen source/_posts/*/*/*.md
-  - git config --global user.email "games0421@gmail.com"
-  - git config --global user.name "debugon"
-  - git init
+  - ls
+  - redpen source/_posts/*/*/*.md
 
 after_success:
+  - git config --global user.name "debugon"
+  - git config --global user.email "games0421@gmail.com"
+  - git init
   - hexo deploy -g
