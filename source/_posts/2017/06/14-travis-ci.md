@@ -1,12 +1,10 @@
 ---
 title: "TravisCIを利用するお話-導入編-"
 date: 2017-06-14 11:32:17
-categories: 
+categories:
   - Programming
-  - Hexo
   - TravisCI
-tags: 
-  - Hexo
+tags:
   - TravisCI
   - YAML
 ---
