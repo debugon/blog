@@ -14,7 +14,7 @@ tags:
 久しぶりの更新になります！
 少し時間を空けるつもりが、思った以上の時間になってしまうなんてことなってしまいました・・・
 
-つい先日、Googleより<a href="https://twitter.com/projecttango/status/941730801791549440" target="_blank">Tangoサービスの終了</a>されました。
+つい先日、Googleより<a href="https://twitter.com/projecttango/status/941730801791549440" target="_blank">Tangoサービスの終了</a>が発表されました。
 
 <blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">We’re turning down support for Tango on March 1, 2018. Thank you to our incredible community of developers who made such progress with Tango over the last three years. We look forward to continuing the journey with you on ARCore. <a href="https://t.co/aYiSUkgyie">https://t.co/aYiSUkgyie</a></p>&mdash; Tango (@projecttango) <a href="https://twitter.com/projecttango/status/941730801791549440?ref_src=twsrc%5Etfw">2017年12月15日</a></blockquote>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
