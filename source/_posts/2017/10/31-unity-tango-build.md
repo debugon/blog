@@ -2,7 +2,13 @@
 title: Unityで話題のTangoを動かしてみる
 date: 2017-10-31 03:41:37
 categories:
+  - Programming
+  - Android
+  - Unity
 tags:
+  - Android
+  - Unity
+  - Tango
 ---
 <img src="..\..\..\img\tango-home.png" />
 
